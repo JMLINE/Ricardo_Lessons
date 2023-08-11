@@ -1,0 +1,51 @@
+
+
+nav{
+    background-color: grey;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 100vw;
+    z-index: 1
+}
+
+nav ul li{
+   float: right;
+   margin-right: 50px;
+   list-style-type: none; 
+  
+}
+
+#brand{
+    float: left
+}
+
+.nav-link{
+    color: darkred;
+
+
+}
+
+
+.header{
+    text-align: center;
+    font-family: 'Allan', cursive;
+
+
+}
+#mainHeader{
+    color: rebeccapurple;
+
+}
+
+#dogPic{
+    width: 350px;
+    margin: 50px;
+}
+
+#paragraph{
+    float: right;
+    margin-right: 50px;
+    font-family: 'Spectral SC', serif;
+}
